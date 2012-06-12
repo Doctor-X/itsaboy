@@ -1,0 +1,5 @@
+@charset "UTF-8";/* CSS Document */
+#white-box {position:absolute;margin-left:-940px;padding:0;border:0 solid red}
+#orange-box {position:relative}
+#login-btn {margin-top:-5px}
+#menu {position:absolute;margin-left:-700px;padding:0;border:0 solid red}
